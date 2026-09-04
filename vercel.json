@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm install && npm run build -- --configuration production",
-  "outputDirectory": "dist/hospital-management",
+  "outputDirectory": "dist/hospital-project",
   "framework": null,
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
